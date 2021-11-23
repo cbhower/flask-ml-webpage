@@ -1,11 +1,11 @@
 .cbh-background-primary {
-    background-color: #0e1117;
+    background-color: #0E1117;
 }
 
-.cbh-link-accent {
+.cbh-link-nav {
     color: white;
 }
 
-.cbh-link-accent:hover {
-    color: gray;
+.cbh-link-nav:hover {
+    color: #c3cbdc;
 }
