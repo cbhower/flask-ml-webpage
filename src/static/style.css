@@ -1,7 +1,11 @@
-.cbh-link-primary {
-    color: orange;
+.cbh-background-primary {
+    background-color: #0e1117;
 }
 
 .cbh-link-accent {
-    color: blue;
+    color: white;
+}
+
+.cbh-link-accent:hover {
+    color: gray;
 }
